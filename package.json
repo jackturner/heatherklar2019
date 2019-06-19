@@ -1,0 +1,17 @@
+{
+  "name": "heatherklar2019",
+  "version": "1.0.0",
+  "description": "Website for the professional work of Heather Klar, aka MegaNotes",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackturner/heatherklar2019.git"
+  },
+  "author": "Jack Turner",
+  "bugs": {
+    "url": "https://github.com/jackturner/heatherklar2019/issues"
+  },
+  "homepage": "https://github.com/jackturner/heatherklar2019#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.8.3"
+  }
+}
